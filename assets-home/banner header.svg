@@ -1,0 +1,9 @@
+<svg data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="778.96">
+    <defs>
+        <linearGradient id="a" x1=".5" y1=".03" x2=".5" y2="1.45" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#360059"/>
+            <stop offset="1" stop-color="#3bd3ff"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 468" style="fill:url(#a)" d="M0 0h1920v778.96H0z"/>
+</svg>
